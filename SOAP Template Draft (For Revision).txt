@@ -1,0 +1,131 @@
+Email: support@whitestonewellness.ca
+________________
+
+
+SOAP Chart Note 
+Patient Name: {{First Name}} {{Last Name}}
+Date of Birth: {{Date of Birth}}
+Sex/Gender: {{Sex}}
+Date of Visit: {{Timestamp}}
+Patient age: {{patient age}}
+Referral?
+How did you hear about us? 
+{{Referral Source}}
+If referred by friend or family: {{Referral Name}}
+________________
+
+
+Presenting Concerns
+	Chief Concern(s): 
+	1. {{Primary reason 1}}
+	When did the symptoms first begin?: {{Onset Date}}
+	2. {{Primary reason 2 }}
+	When did the symptoms first begin?: {{Onset Date}}
+	3. {{Primary reason 3 }}
+	When did the symptoms first begin?: {{Onset Date}}
+	Secondary Concern(s): {{Secondary Concerns}}
+	Medical History
+	Diagnosed Conditions:
+	1. {{Medical Condition 1}}
+2. {{Medical Condition 2}}
+3. {{Medical Condition 3}}
+4. {{Medical Condition 4}}
+5. {{Other Medical Conditions}}
+	Past Illnesses: {{Past Illnesses}}
+	Surgeries/Hospitalizations: {{Surgeries}}
+	Mental or Emotional Trauma: {{Trauma}}
+	Medications & Supplements
+	Prescription Meds: 
+	* {{Prescription Medication 1}} 
+* {{Prescription Medication 2}} 
+* {{Prescription Medication 3}} 
+* {{Prescription Medication 4}} 
+* {{Prescription Medication 5}} 
+* {{Prescription Medication 6}} 
+* {{Prescription Medication 7}} 
+* {{Prescription Medication 8}} 
+* {{Prescription Medication 9}} 
+* {{Prescription Medication 10}} 
+	Natural Supplements: 
+	* {{Supplement 1}} 
+* {{Supplement 2}} 
+* {{Supplement 3}} 
+* {{Supplement 4}} 
+* {{Supplement 5}} 
+* {{Supplement 6}} 
+* {{Supplement 7}} 
+* {{Supplement 8}} 
+* {{Supplement 9}} 
+* {{Supplement 10}} 
+	
+
+Lifestyle Snapshot
+	Occupation: {{Occupation}}
+	Relationship status: {{Relationship status}}
+	Lives with?: {{Living Arrangement}}
+	Diet Style: {{Diet}}
+	Diet Quality (self-score): {{quality of your current diet}}
+	Food Cravings: {{Cravings}}
+	Water Intake: {{Water}} per day (average)
+	Alcohol Use: {{Alcohol}}
+	Cannabis Use: {{Cannabis Use}}
+Frequency/Type: {{Cannabis Frequency Type}}
+	Exercise Frequency: {{Exercise frequency}}
+	Exercise Type: {{Exercise type}}
+	Allergies: {{Allergy Details}}
+	
+
+Wellbeing Scores
+	Energy (1–10) 
+10=best energy
+	{{Energy}}
+	Mood (1–10)
+10=best mood
+	{{Mood}}
+	Stress (1–10) 
+10=overwhelming stress
+	{{Stress}}
+	Sleep (1–10)
+10=best sleep
+	{{Sleep}}
+	Sleep Disturbances: {{Sleep Disturbances}}
+	
+
+Women’s Health
+	Patient experiences: {{female health symptoms}}
+	Hormone therapy? 
+{{Hormonal Therapy yes no}}
+	
+
+Family History:
+	1. {{Family History}}
+2. {{Family History}}
+3. {{Family History}}
+	1. {{Family Member Affected}}
+
+
+	
+
+Review of Symptoms:
+	General: {{Symptoms General}}
+	Skin & Hair: {{Symptoms SkinHair}}
+	Eyes, Ears, Nose & Throat: {{Symptoms ENT}}
+	Cardiovascular: {{Symptoms Cardiovascular}}
+	Respiratory: {{Symptoms Respiratory}}
+	Gastrointestinal: {{Symptoms GI}}
+	Neurological & Mental Health: {{Symptoms NeuroPsych}}
+	Musculoskeletal: {{Symptoms Musculoskeletal}}
+	Urinary: {{Symptoms Urinary}}
+	Other: {{Other Symptoms}}
+	
+
+Latest Lab Test:
+	Recent Bloodwork (within the past 1–2 years)?: {{Bloodwork Recent}} 
+	Would the patient like to upload results?: 
+{{Bloodwork Upload Consent}}
+	________________
+
+
+{{ChatGPT Response}}
+
+------------

@@ -1,0 +1,117 @@
+Call Transcript:
+
+Agent: Hi, I am an AI that will be doing your intake form. We will be having a conversation regarding your health, and I will be sending this information back to your doctor, as well as filling out the intake form on your behalf. All the information you share with me today will be confidential, only shared with your doctor.  If that all sounds great to you, and you are ready to proceed, please let me know. 
+User: I;m ready
+Agent: Wonderful! I'm excited to help you with your intake today. Let's start with some basic information.
+
+What's your first name?
+User: Lalaine
+Agent: Nice to meet you, Lalaine! And what's your last name?
+User: Pandaan
+Agent: Thank you, Lalaine Pandaan. Now, what's your date of birth?
+User: Jan 1, 1999
+Agent: Perfect! Now, how do you identify your sex? You can choose from Female, Male, Other, or Prefer not to say.
+User: Female
+Agent: Thank you. Can you provide your mobile phone number?
+User: 9999999999
+Agent: Got it. What's your street address, including the number and name?
+User: test
+Agent: And what about your town or city, province, and postal code?
+User: test
+Agent: Thank you. Do you currently have a family doctor or nurse practitioner?
+User: yes
+Agent: Great! How did you first hear about us? Was it through Social media like Facebook or Instagram, a Friend or family member, Google search, Referral from your healthcare provider, Radio ad, Mail flyer or postcard, or did you attend a Whitestone Wellness workshop?
+User: I attended a workshop last June
+Agent: That's wonderful that you attended one of our workshops! Now let's talk about what brings you in today. What's the primary reason you're seeking care today?
+User: I'm here to see Dr. Kate for my insomia
+Agent: I understand you're here to see Dr. Kate about your insomnia. When did the symptoms for your primary concern first begin? Was it Less than 4 weeks ago, 1-3 months ago, 4-12 months ago, 1-2 years ago, 2-5 years ago, 5-10 years ago, Over 10 years ago, or are you Uncertain or don't remember?
+User: It's been a while. Like 2-5 years ago maybe
+Agent: Thank you for that information. Is there a second concern you'd like to discuss today?
+User: None
+Agent: That's perfectly fine. Are there any other health concerns or symptoms you'd like me to know about, even if they're not your top priorities? This could include long-standing issues, past diagnoses, or anything else relevant to your health history.
+User: Irregular periods and mood swings
+Agent: Thank you for sharing that. Those are important to note. Now, do you have any current medical conditions you'd like to tell me about? Let's start with the first one.
+User: None
+Agent: Okay, no current medical conditions. Do you currently take any natural supplements? Yes, I take 1-3 supplements fairly regularly, Yes, I take 4 or more supplements fairly regularly, or No.
+User: No
+Agent: Got it. Do you currently take any prescribed medications? Yes, I take 1-3 prescriptions, Yes, I take 4 or more prescriptions, or No.
+User: No
+Agent: Thank you. Can you tell me about any significant past illnesses you've experienced? If this doesn't apply, just leave it blank or write N/A.
+User: I was diagnosed with anxiety and depression back in 2017
+Agent: Thank you for sharing that. Have you had any past surgeries or hospitalizations? Please provide details, or write N/A if not applicable.
+User: I don't
+Agent: Understood. Have you experienced any significant physical or emotional trauma in the past? You can leave this blank or write N/A if it doesn't apply.
+User: Yes, anxiety and depression
+Agent: I understand. What types of allergies do you have? You can check Seasonal, Animals, Food, Medications, or none.
+User: I'm allergic to eggs and peanuts
+Agent: Thank you for letting me know. So you have food allergies. Can you confirm that it's specifically eggs and peanuts you're allergic to?
+User: Yes
+Agent: Perfect. Now let's talk about your family health history. Which of these conditions run in your family? Heart & Circulatory Conditions like heart disease, stroke, high blood pressure, high cholesterol; Diabetes & Metabolic Conditions like Type 1 or 2 diabetes, osteoporosis, gout; Autoimmune & Inflammatory Disorders like arthritis, lupus, thyroid disease, celiac, other autoimmune conditions; Neurological & Mental Health issues like dementia, Alzheimer's, Parkinson's, depression, anxiety, other mental health conditions; Hormonal & Reproductive Conditions like thyroid disorders, PCOS, fertility challenges; Cancer; Lung & Allergy Conditions like asthma, COPD, chronic lung disease, severe allergies; Kidney or Liver Disease; Blood Disorders like clotting disorders, hemophilia, anemia; or Substance Abuse like alcoholism or drug addiction.
+User: My father side is diabetic
+Agent: Thank you for that information. For the family conditions you mentioned, can you provide more details? For example, which family member was affected - like 'Diabetes: Father' or if you know more specifics about other family members on your father's side?
+User: my father and some of his siblings
+Agent: Thank you for that detail. Now let's move on to some personal information. What's your current relationship status? Single, In a relationship, or Married?
+User: Single
+Agent: What's your current occupation? If you're retired, please mention that.
+User: I'm retired
+Agent: Thank you. Who do you currently live with? My partner or spouse, My children, I live alone, or someone else?
+User: I live alone
+Agent: Now I'd like to ask about some aspects of your daily well-being. On a scale of 1 to 10, how would you rate your typical energy levels throughout the day? Consider both your highs and lows. Choose from 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10.
+User: 7
+Agent: That's good to hear. How about your mood on a typical day, taking into account the ups and downs? Rate it from 1 to 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10.
+User: 5
+Agent: Thank you for sharing that. What's your average stress level, considering both high and low stress days? Rate from 1 to 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10.
+User: 7
+Agent: I appreciate you being open about that. How would you rate your sleep quality on a typical night? From 1 to 10: 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10.
+User: 4
+Agent: That aligns with your concern about insomnia. Do you experience any sleep disturbances? Check any that apply: Difficulty falling asleep, Difficulty staying asleep, Not feeling rested when you wake up, Excessive sleep, Difficulty waking, Nightmares, or Sleepwalking.
+User: I have difficulty falling asleep, not feeling rested and difficulty waking up
+Agent: Thank you for those details - that gives us a good picture of your sleep challenges. Do you use cannabis? No, Yes recreationally, Yes medically for things like sleep, pain, or anxiety, or Yes both recreationally and medically?
+User: No
+Agent: Do you follow any specific diet or eating pattern at least 90% of the time? Vegetarian diet, Vegan diet, Paleo or Keto, Gluten free, Intermittent fasting, or No specific diet?
+User: No specific diet
+Agent: How would you describe your current diet quality overall? Needs significant improvement, Could be better, Moderately healthy, Very healthy, or Excellent with no changes needed?
+User: For me, i could say it's moderately healthy
+Agent: That's great that you're maintaining a moderately healthy diet! Do you experience food cravings? If so, what kind - sweet, salty, spicy, or specific foods? How strong are they and do they happen at particular times?
+User: I crave spicy and sour foods most of the time. Mostly during night when I cant sleep
+Agent: That's interesting - it sounds like those cravings might be connected to your sleep difficulties. How much water do you drink daily, including herbal teas? Less than 500 mL (about 2 cups), 500 mL - 1L (about 2-4 cups), 1-2L (about 4-8 cups), More than 2L (more than 8 cups), or I really don't know, I'd have to keep track?
+User: I dont know
+Agent: That's completely understandable - many people don't keep track of their water intake. Do you drink alcohol? I don't drink alcohol, 1-2 drinks per week, 3-5 drinks per week, 6-10 drinks per week, or More than 10 drinks per week?
+User: Dont drink
+Agent: How often do you exercise or engage in physical activity? Daily, Several times a week, Weekly, Rarely, or Never?
+User: I exercise weekly at least 2 times a week
+Agent: That's wonderful that you're staying active! What types of exercise do you typically do?
+User: swimming
+Agent: Swimming is excellent exercise! Are you currently using birth control or hormone therapy? Yes, birth control, Yes, hormone therapy, or No?
+User: no
+Agent: Now let's go through some general symptoms. Do you experience any of these? Unexplained weight loss, Unexplained weight gain, Fatigue, Fever or chills, Night sweats, Poor sleep quality, or None of the above.
+User: Yes, fatigue and poor quality sleep
+Agent: Thank you for confirming those. How about skin and hair symptoms? Dry skin, Acne, Hair loss, Brittle nails, Rashes or itching, or None of the above?
+User: dry skin, hair loss
+Agent: Any issues with your eyes, ears, nose, or throat? Blurry vision, Dry eyes, Ringing in ears, Frequent sinus congestion, Sore throat, or None of the above?
+User: blurry vision
+Agent: Do you have any cardiovascular symptoms? Chest pain or discomfort, Heart palpitations, Swelling in legs or feet, Dizziness or fainting, or None of the above?
+User: dizziness
+Agent: Any respiratory symptoms? Shortness of breath, Chronic cough, Wheezing, or None of the above?
+User: none
+Agent: How about digestive symptoms? Bloating or distension, More gas than normal, Constipation, Diarrhea, Nausea or vomiting, Blood in stool, or None of the above?
+User: nausea
+Agent: Any neurological or mental health symptoms? Anxiety, Depression, Brain fog or difficulty concentrating, Headaches or migraines, Dizziness or lightheadedness, Numbness or tingling in limbs, or None of the above?
+User: yes, anxiety and depression
+Agent: Do you experience any muscle or joint issues? Joint pain or stiffness, Muscle pain, Muscle weakness, Back pain, or None of the above?
+User: nope
+Agent: Any urinary symptoms? Frequent urination, Painful urination, Incontinence, or None of the above?
+User: noe
+Agent: Is there anything else you'd like me to know before our appointment?
+User: no
+Agent: Have you had any bloodwork done in the past 1-2 years? Yes, No, or Not sure?
+User: Yes
+Agent: Would you like to share your recent bloodwork with us? This helps us provide more personalized care. Yes, please send me a link and I'll upload it, No, or I'm not sure, I'll have to contact my doctor's office to get a copy?
+User: Sure, I'll ask my dr for a copy
+Agent: Perfect! Finally, I need you to confirm: I have read and agree to the consent and policies regarding information collection, storage, email communication, cancellation policy, and product recommendations. I confirm the information provided is accurate to the best of my knowledge.
+User: Yes, i agree
+Agent: Wonderful, Lalaine! Thank you so much for taking the time to complete this comprehensive intake with me today. You've provided really valuable information about your insomnia, irregular periods, mood concerns, and other symptoms that will help Dr. Kate give you the best possible care.
+
+I can tell you're being very thoughtful about your health - from maintaining regular exercise with swimming to being open about your sleep challenges and mental health history. Dr. Kate will have all the details she needs to work with you on addressing your insomnia and other concerns.
+
+Your appointment information has been recorded, and Dr. Kate will review everything we've discussed today. I hope your visit goes wonderfully and that you start getting the restful sleep you deserve!
